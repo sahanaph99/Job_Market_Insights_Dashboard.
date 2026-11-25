@@ -77,8 +77,8 @@ This project analyzes job market data to identify hiring trends, in-demand skill
 ## 🖼️ Dashboard Preview
 <img width="1305" height="735" alt="image" src="https://github.com/user-attachments/assets/34b11075-3815-41ca-9d07-db10ef122d99" />
 
+<img width="1306" height="740" alt="image" src="https://github.com/user-attachments/assets/03543782-41ac-4866-8466-87d668843fa9" />
 
-![Skills Dashboard](https://github.com/sahanaph99/job-market-insightsdashboard/blob/main/skills_dashboard.png?raw=true)
 
 ---
 
